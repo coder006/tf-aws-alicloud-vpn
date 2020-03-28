@@ -244,3 +244,5 @@ resource "alicloud_vpn_route_entry" "alicloud_vpn_route_entry_2" {
   publish_vpc    = true
 }
 ```
+
+![That's all folks](https://upload.wikimedia.org/wikipedia/commons/e/ea/Thats_all_folks.svg)
